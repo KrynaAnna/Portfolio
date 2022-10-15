@@ -419,6 +419,7 @@ section:hover .section-head h4 {
 -----------------------------------------------------------------*/
 .header {
   min-height: 110vh;
+  width: 100vw;	
 }
 .header .caption .o-hidden {
   display: inline-block;
